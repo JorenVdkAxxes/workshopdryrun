@@ -1,0 +1,8 @@
+Add note to not click on the play button in VS Code (part of Powershell extension)
+
+Exercise 1:
+- Step 3
+	- Add line to check the readme file to see what file you need to change
+- Step 4:
+	- Add line that says to run first the pipeline for pushing the images
+
